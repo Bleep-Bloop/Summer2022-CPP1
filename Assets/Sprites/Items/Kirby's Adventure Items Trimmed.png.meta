@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: fbc3814f65047ed428b6d0f301c09376
+guid: afd8660ccda723d409576e0907d7fe96
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16.5
+  spritePixelsToUnits: 16.6
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -66,7 +66,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 4096
+    maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -116,263 +116,200 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Kirby Idle 1
+      name: Max Tomato 1
       rect:
         serializedVersion: 2
-        x: 6
-        y: 3027
-        width: 16
-        height: 16
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2
+        y: 0
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f0fe681f9af4b63408b05acf14f35410
-      internalID: -256599877
+      spriteID: c5643b8e7da84e44db3055780d70fda7
+      internalID: 975196618
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kirby Idle 2
+      name: Max Tomato 2
       rect:
         serializedVersion: 2
-        x: 26
-        y: 3027
+        x: 17
+        y: 0
         width: 16
         height: 16
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4c8df64a289f2ed4a8c83bf7ce74f7c5
-      internalID: 1090724872
+      spriteID: 3a033277b45119b469314a71ffcb855d
+      internalID: -803445763
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kirby Walk 1
+      name: Max Tomato 3
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b1406925622cb40bfd084f42ceb04e
+      internalID: -1984057291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Max Tomato 4
       rect:
         serializedVersion: 2
         x: 51
-        y: 3027
+        y: 0
         width: 16
         height: 16
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b5db67d290853843b7360b39ae84ade
-      internalID: 343546263
+      spriteID: e8a0868eaa9716e4ca940e3f2b7ba272
+      internalID: 565801970
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kirby Walk 2
+      name: 1 Up 1
       rect:
         serializedVersion: 2
-        x: 71
-        y: 3027
-        width: 15
+        x: 68
+        y: 1
+        width: 16
         height: 15
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b8d26364df9ab8f4cb009d303214ba2d
-      internalID: -1128016163
+      spriteID: 010e857c848b43d45a199bfacdcda2f7
+      internalID: 866959909
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kirby Walk 3
-      rect:
-        serializedVersion: 2
-        x: 91
-        y: 3027
-        width: 16
-        height: 16
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9348e8f910d897d44a38a259bea7088e
-      internalID: 1096008987
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kirby Walk 4
-      rect:
-        serializedVersion: 2
-        x: 111
-        y: 3027
-        width: 15
-        height: 15
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bf56222406891024f89445d8b85af6fa
-      internalID: 1890099367
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kirby Jump 1
-      rect:
-        serializedVersion: 2
-        x: 6
-        y: 3002
-        width: 16
-        height: 16
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c6b17cc817cb9c14a9edc786ee6fb4a4
-      internalID: -132514951
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kirby Fall 1
-      rect:
-        serializedVersion: 2
-        x: 26
-        y: 3002
-        width: 16
-        height: 16
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fb48b41bd6fddec40b96e655ee3aa697
-      internalID: 2018570256
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kirby Laser 1
+      name: 1 Up 2
       rect:
         serializedVersion: 2
         x: 86
-        y: 2542
-        width: 20
-        height: 14
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d6fb644e827cf28469c3af2decc80880
-      internalID: 534379313
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kirby Laser 2
-      rect:
-        serializedVersion: 2
-        x: 115
-        y: 2542
-        width: 23
-        height: 14
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 54e27ac8b180a62428813dc01949265a
-      internalID: -162769151
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kirby Spit 1
-      rect:
-        serializedVersion: 2
-        x: 6
-        y: 2936
+        y: 1
         width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0096429879e75f14095ce41c82a01875
+      internalID: -322418729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 Up 3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca809c51846d0b4ea8a06f9ca185cd9
+      internalID: -1251988222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1 Up 4
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e1c5c0ee559994da27bd856148950b
+      internalID: 2131372773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bottle
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 0
+        width: 8
         height: 16
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6b0373291fdeabe47bd1da10f02cbb32
-      internalID: -1826568661
+      spriteID: 5704166e84f9a704abaad1dc852f2f3e
+      internalID: -1446257781
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kirby Spit 2
+      name: Candy
       rect:
         serializedVersion: 2
-        x: 26
-        y: 2937
-        width: 16
-        height: 22
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9184071a7059b0e4ea5ec467687b49e8
-      internalID: -373277086
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kirby Projectile 1
-      rect:
-        serializedVersion: 2
-        x: 6
-        y: 2911
+        x: 150
+        y: 0
         width: 16
         height: 16
       alignment: 0
@@ -382,92 +319,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0bb731f303d8c4444ada1c9e6027a1b6
-      internalID: 1755677458
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kirby Projectile 2
-      rect:
-        serializedVersion: 2
-        x: 26
-        y: 2911
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 87e31a60e5fd6b74e88bf5b2a294331e
-      internalID: -1239698902
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kirby Projectile 3
-      rect:
-        serializedVersion: 2
-        x: 46
-        y: 2911
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 680d529d244273944a9d9abb67ad6aa3
-      internalID: -1881264082
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kirby Projectile 4
-      rect:
-        serializedVersion: 2
-        x: 66
-        y: 2911
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 093ba88b5cd19274685d2b52e3fe881e
-      internalID: 1995079189
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kirby Idle Fat
-      rect:
-        serializedVersion: 2
-        x: 321
-        y: 732
-        width: 26
-        height: 29
-      alignment: 9
-      pivot: {x: 0.50311863, y: 0.114228345}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f5c9352f418e08b4392084d1b462b888
-      internalID: -2018043997
+      spriteID: 694a20bffce1ec742b3a36874b94c3e9
+      internalID: -898595497
       vertices: []
       indices: 
       edges: []
@@ -483,23 +336,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Kirby Idle 1: -256599877
-      Kirby Walk 3: 1096008987
-      Kirby Projectile 2: -1239698902
-      Kirby Projectile 3: -1881264082
-      Kirby Jump 1: -132514951
-      Kirby Projectile 1: 1755677458
-      Kirby Laser 2: -162769151
-      Kirby Spit 2: -373277086
-      Kirby Idle Fat: -2018043997
-      Kirby Walk 4: 1890099367
-      Kirby Walk 1: 343546263
-      Kirby Walk 2: -1128016163
-      Kirby Idle 2: 1090724872
-      Kirby Laser 1: 534379313
-      Kirby Fall 1: 2018570256
-      Kirby Spit 1: -1826568661
-      Kirby Projectile 4: 1995079189
+      1 Up 3: -1251988222
+      1 Up 2: -322418729
+      Max Tomato 4: 565801970
+      Bottle: -1446257781
+      1 Up 1: 866959909
+      Max Tomato 3: -1984057291
+      Max Tomato 2: -803445763
+      Max Tomato 1: 975196618
+      1 Up 4: 2131372773
+      Candy: -898595497
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
